@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:20.04
 # FROM python:alpine3.8
 # COPY . /app
 # WORKDIR /app
