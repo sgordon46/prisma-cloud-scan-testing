@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/ubi:8.8-1009
+FROM public.ecr.aws/lambda/dotnet:6.2023.02.03.12
 # FROM python:alpine3.8
 # COPY . /app
 # WORKDIR /app
