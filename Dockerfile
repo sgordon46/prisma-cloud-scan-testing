@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM nginx:1.24.0
 # FROM python:alpine3.8
 # COPY . /app
 # WORKDIR /app
