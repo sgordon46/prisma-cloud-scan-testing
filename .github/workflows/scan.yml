@@ -18,7 +18,7 @@ jobs:
 
       - name: Prisma Cloud image scan
         id: scan
-        uses: PaloAltoNetworks/prisma-cloud-scan@c5fefca1a287f45b92ccd2f15e5cfaeb48df7124
+        uses: PaloAltoNetworks/prisma-cloud-scan@f6c0ad911cc89c77d518a1a2228e6f60e3f59288
         with:
           pcc_console_url: ${{ secrets.PCC_CONSOLE_URL }}
           pcc_user: ${{ secrets.PCC_USER }}
