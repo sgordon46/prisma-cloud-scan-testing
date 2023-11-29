@@ -1,4 +1,4 @@
-FROM nginx:1.24.0
+FROM quay.io/openshift-release-dev/ocp-v4.0-art-dev
 # FROM python:alpine3.8
 # COPY . /app
 # WORKDIR /app
