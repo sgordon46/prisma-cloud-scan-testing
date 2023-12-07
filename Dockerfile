@@ -1,4 +1,4 @@
-FROM public.ecr.aws/lambda/dotnet:6.2023.02.03.12
+FROM alperthod/dotnet:latest 
 # FROM python:alpine3.8
 # COPY . /app
 # WORKDIR /app
